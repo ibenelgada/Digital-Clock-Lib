@@ -1,1 +1,1 @@
-# Digital-Clock-Lib
+# Digital Clock Lib
