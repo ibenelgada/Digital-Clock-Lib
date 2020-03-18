@@ -2,7 +2,7 @@
 
 #include "Tools.h"
 
-// local variables
+// global variables
 CRGB Clock::leds[NUM_LEDS];
 CRGB Clock::digitsColor = CRGB(255, 0, 0);
 bool Clock::ClockOn = true;
